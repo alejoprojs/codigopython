@@ -1,2 +1,2 @@
-# codigopython
-Ejercicios practicos del lenguaje
+# Proyecto integrado de curso
+Modelo de sistema de gestión de una tienda utilizando python lenguaje de desarrollo
